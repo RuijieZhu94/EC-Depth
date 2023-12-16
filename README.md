@@ -65,7 +65,7 @@ We provide the official weights of EC-Depth (the first stage model) and EC-Depth
 | EC-Depth  | 0.100 | 0.708 | 4.367 | 0.175 | 0.896 | 0.966 | 0.984 |  |
 | EC-Depth*  | 0.100 | 0.689 | 4.315 | 0.173 | 0.896 | 0.967 | 0.985 |
 
-### KITTIC
+### KITTI-C
 | Methods  | AbsRel  | SqRel  | RMSE  | RMSE log  | a1  | a2  | a3  | 
 | :----: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | EC-Depth  | 0.115 | 0.841 | 4.749 | 0.189 | 0.869 | 0.958 | 0.982 |  |
