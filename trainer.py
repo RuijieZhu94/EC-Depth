@@ -344,7 +344,7 @@ class Trainer:
         if self.use_pose_net:
             output_pose = self.predict_poses(inputs, features)
             outputs.update(output_pose)
-            if self.opt.augmix and not eval:  
+            if (self.opt.augmix or self.opt.aug_fp) and not eval:  
                 outputs_aug1.update(output_pose)
                 outputs_aug2.update(output_pose)
 
