@@ -18,7 +18,7 @@ The official Pytorch implementation of the paper:
 > The two-stage training framework of EC-Depth. In the first stage, we train DepthNet and PoseNet with the perturbation-invariant depth consistency loss. In the second stage, we leverage the teacher network to generate pseudo labels and construct a distillation loss to train the student network. Notably, we propose a depth consistency-based filter (DC-Filter) and a geometric consistency-based filter (GC-Filter) to filter out unreliable pseudo labels.
 
 ## News
-- **16 Dec. 2023**: The code is now available (will continue to update).
+- **16 Dec. 2023**: The code is now available.
 - **28 Nov. 2023**: The [project website](https://ruijiezhu94.github.io/ECDepth_page/) was released.
 - **12 Oct. 2023**: [EC-Depth](https://arxiv.org/abs/2310.08044) released on arXiv. 
 
@@ -34,12 +34,12 @@ We provide example bash commands to run training or testing. Please modify these
 First stage training:
 
 ```bash
-bash train_ecdepth.sh train first_stage_model 2 4 
+bash train_first_stage.sh train first_stage_model 2 4 
 ```
-Second stage training (TODO):
+Second stage training:
 
 ```bash
-bash train_ecdepth.sh train second_stage_model 2 4 
+bash train_second_stage.sh train second_stage_model 2 4 
 ```
 
 ### Testing

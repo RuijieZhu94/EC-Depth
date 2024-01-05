@@ -47,4 +47,3 @@ python -m torch.distributed.launch --nproc_per_node $GPU_NUM --master_port 2556 
     --aug_fp \
     $PY_ARGS | tee -a $EXP_DIR/$model_name/log_train.txt    
 
-# TODO: second stage training

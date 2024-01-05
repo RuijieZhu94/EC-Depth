@@ -82,7 +82,30 @@ class ECDepthOptions:
                                  type=int,
                                  help="frames to load",
                                  default=[0, -1, 1])
-
+        self.parser.add_argument("--ema_weight",
+                                 type=float,
+                                 help="weight for teacher",
+                                 default=0.99)
+        self.parser.add_argument("--stable_thre",
+                                 type=float,
+                                 help="reprojection loss threshold for stable mask",
+                                 default=0.05)
+        self.parser.add_argument("--lamda_stable",
+                                 type=float,
+                                 help="coefficient for stable loss",
+                                 default=100)
+        self.parser.add_argument("--pseudo_weight",
+                                 type=float,
+                                 help="coefficient for pseudo-label loss",
+                                 default=1.0)
+        self.parser.add_argument("--severity",
+                                 type=int,
+                                 help="severity for augmix",
+                                 default=1)
+        self.parser.add_argument("--depth_thre",
+                                 type=float,
+                                 help="severity for augmix",
+                                 default=0.05)
         # OPTIMIZATION options
         self.parser.add_argument("--batch_size",
                                  type=int,
