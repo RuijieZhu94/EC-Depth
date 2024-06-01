@@ -4,10 +4,9 @@
     <a href="https://indu1ge.github.io/ziyangsong">Ziyang Song*</a>,  
     <a href="https://ruijiezhu94.github.io/ruijiezhu/">Ruijie Zhu*</a>,
     <a href="https://chuxwa.github.io/">Chuxin Wang</a>,
-    <a href="https://github.com/lliu00">Li Liu</a>,
+    <a href="https://github.com/JiachengDeng">Jiacheng Deng</a>,
     <a href="https://github.com/Hevans123">Jianfeng He</a>,<br>
     <a href="http://staff.ustc.edu.cn/~tzzhang/">Tianzhu Zhang</a>,
-    <a href="https://dblp.org/pid/z/YongdongZhang.html">Yongdong Zhang</a>,
     <br>
     *Equal Contribution.
     <br>
