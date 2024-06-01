@@ -11,8 +11,6 @@
     <br>
     *Equal Contribution.
     <br>
-    Deep Space Exploration Laboratory/School of Information Science and Technology,
-    <br>
     University of Science and Technology of China
     <br>
     <b>Arxiv 2023</b>
