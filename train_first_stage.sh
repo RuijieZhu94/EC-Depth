@@ -45,6 +45,5 @@ python -m torch.distributed.launch --nproc_per_node $GPU_NUM --master_port 2556 
     --num_epochs 20 \
     --ddp \
     --aug_fp \
-    --use_triplet_loss \
     $PY_ARGS | tee -a $EXP_DIR/$model_name/log_train.txt    
 
