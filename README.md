@@ -1,11 +1,32 @@
-# EC-Depth
-The official Pytorch implementation of the paper:
-> **EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes**
->
-> *Ruijie Zhu, Ziyang Song, Chuxin Wang, Jianfeng He, Tianzhu Zhang*
+<h3 align="center"><strong>EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes</strong></h3>
 
-[![arxiv](https://img.shields.io/badge/arXiv-2310.08044-b31b1b.svg?style=plastic)](https://arxiv.org/abs/2310.08044)
-[![project](https://img.shields.io/badge/website-project-yellowgreen.svg?style=plastic)](https://ruijiezhu94.github.io/ECDepth_page/)
+  <p align="center">
+    <a href="https://indu1ge.github.io/ziyangsong">Ziyang Song*</a>,  
+    <a href="https://ruijiezhu94.github.io/ruijiezhu/">Ruijie Zhu*</a>,
+    <a href="https://chuxwa.github.io/">Chuxin Wang</a>,
+    <a href="https://github.com/lliu00">Li Liu</a>,
+    <a href="https://github.com/Hevans123">Jianfeng He</a>,<br>
+    <a href="http://staff.ustc.edu.cn/~tzzhang/">Tianzhu Zhang</a>,
+    <a href="https://dblp.org/pid/z/YongdongZhang.html">Yongdong Zhang</a>,
+    <br>
+    *Equal Contribution.
+    <br>
+    Deep Space Exploration Laboratory/School of Information Science and Technology,
+    <br>
+    University of Science and Technology of China
+    <br>
+    <b>Arxiv 2023</b>
+
+</p>
+
+<div align="center">
+ <a href='https://arxiv.org/abs/2310.08044'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <a href='https://arxiv.org/abs/[]'><img src='https://img.shields.io/badge/arXiv-[]-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+ <a href='https://ruijiezhu94.github.io/ECDepth_page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://github.com/RuijieZhu94/EC-Depth?tab=MIT-1-ov-file'><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+</div>
+
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ec-depth-exploring-the-consistency-of-self/unsupervised-monocular-depth-estimation-on-7)](https://paperswithcode.com/sota/unsupervised-monocular-depth-estimation-on-7?p=ec-depth-exploring-the-consistency-of-self)
 
@@ -78,7 +99,7 @@ If you find our work useful in your research, please consider citing:
 ```
 @article{zhu2023ecdepth,
   title={EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes},
-  author={Zhu, Ruijie and Song, Ziyang and Wang, Chuxin and He, Jianfeng and Zhang, Tianzhu},
+  author={Song, Ziyang and Zhu, Ruijie and Wang, Chuxin and Deng, Jiacheng and He, Jianfeng and Zhang, Tianzhu},
   journal={arXiv preprint arXiv:2310.08044},
   year={2023}
 }
