@@ -1,4 +1,4 @@
-<h3 align="center"><strong>EC-Depth: Exploring the consistency of self-supervised monocular depth estimation under challenging scenes</strong></h3>
+<h3 align="center"><strong>ER-Depth: Enhancing the Robustness of Self-Supervised Monocular Depth Estimation in Challenging Scenes</strong></h3>
 
   <p align="center">
     <a href="https://indu1ge.github.io/ziyangsong">Ziyang Song*</a>,  
@@ -12,14 +12,14 @@
     <br>
     University of Science and Technology of China
     <br>
-    <b>Arxiv 2023</b>
+    <b>TOMM 2025</b>
 
 </p>
 
 <div align="center">
  <a href='https://arxiv.org/abs/2310.08044'><img src='https://img.shields.io/badge/Paper-arXiv-red'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <a href='https://arxiv.org/abs/[]'><img src='https://img.shields.io/badge/arXiv-[]-b31b1b.svg'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
- <a href='https://ruijiezhu94.github.io/ECDepth_page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <a href='https://ruijiezhu94.github.io/ERDepth_page/'><img src='https://img.shields.io/badge/Project-Page-Green'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://github.com/RuijieZhu94/EC-Depth?tab=MIT-1-ov-file'><img src='https://img.shields.io/badge/License-MIT-blue'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
  <a href='https://paperswithcode.com/sota/unsupervised-monocular-depth-estimation-on-7?p=ec-depth-exploring-the-consistency-of-self'><img src='https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/ec-depth-exploring-the-consistency-of-self/unsupervised-monocular-depth-estimation-on-7'></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 </div>
@@ -33,7 +33,7 @@
 
 ## News
 - **16 Dec. 2023**: The code is now available.
-- **28 Nov. 2023**: The [project website](https://ruijiezhu94.github.io/ECDepth_page/) was released.
+- **28 Nov. 2023**: The [project website](https://ruijiezhu94.github.io/ERDepth_page/) was released.
 - **12 Oct. 2023**: [EC-Depth](https://arxiv.org/abs/2310.08044) released on arXiv. 
 
 ## Installation
